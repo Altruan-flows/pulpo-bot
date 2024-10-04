@@ -1,0 +1,30 @@
+{
+    "KS-54592": {
+        "id": 2486614,
+        "separate_batch_from": 27
+    },
+    "SA-92936": {
+        "id": 2491699,
+        "separate_batch_from": 10
+    },
+    "KS-51275": {
+        "id": 2232773,
+        "separate_batch_from": 10
+    },
+    "KS-27346": {
+        "id": 2619514,
+        "separate_batch_from": 10
+    },
+    "SS-18542": {
+        "id": 2529040,
+        "separate_batch_from": 10
+    },
+    "SS-28342": {
+        "id": 2529041,
+        "separate_batch_from": 10
+    },
+    "SA-91749": {
+        "id": 2491600,
+        "separate_batch_from": 10
+    }
+}
